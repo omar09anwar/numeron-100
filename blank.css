@@ -1,0 +1,25 @@
+    @import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+    body{
+        background-color: rgb(255, 0, 0);
+    }
+
+    #Quit{
+        width: 180px;
+        height: 180px;
+        cursor: pointer;
+        align-items: center;
+        display: flex;
+        }
+
+    #continue{
+        width: 180px;
+        height: 180px;
+        cursor: pointer;
+        align-items: center;
+        display: flex;
+    }
+
+    .p{
+        align-items: center;
+    }
